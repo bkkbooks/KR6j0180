@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0180/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大雲經請雨品第六十四
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0993.xml
+    old_id: T19n0993
+hash: sha256:bc9fab4f9a10d5e6185cd83ea0eeac20575dbba0d42d7b2d216dc675b64f46d5
