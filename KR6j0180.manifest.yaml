@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0180_000.yaml, hash: 'sha256:bc9fab4f9a10d5e6185cd83ea0eeac20575dbba0d42d7b2d216dc675b64f46d5'}
-  - {seq: 1, filename: KR6j0180_001.yaml, hash: 'sha256:a1838908d3df46a562416935d60d4ecadec497cc2943b37f142acd08a0ea39ef'}
+  - {seq: 1, filename: KR6j0180_001.yaml, hash: 'sha256:2755c79dbf3611a5917fc98ff8161effe9acd4827dff59655f466d147321aa12'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0180_001.markers.yaml, hash: 'sha256:1aa6fc9a35811f3aac924beba3aff6ca234142f9a13a55a39b4d8c89c2ea1f9d'}
+  - {seq: 0, role: markers, filename: assets/KR6j0180_000.markers.yaml, hash: 'sha256:bc3018f4c34db33f929be1f22b2bc6d31e2c9216d46d1c92ff4cc413f4b2709c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0180_001.markers.yaml, hash: 'sha256:977a3584d9500f54e2534267fcfbce5acdef8782705986d3c0b7820693e3cad8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 大雲經請雨品第六十四
   type: juan
   level: 1
-hash: sha256:e028c998be0e28a5edcdcc6bfff1fff2bce1f85cc29e05556071593b83c160ce
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:741d70d26ee07539168e152f5c0697ca99bdaa69f1d5325bc7c531b2d8a1efa0
