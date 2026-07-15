@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0180/v1
 canonical_location: https://kanripo.org/bkk/KR6j0180/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大雲經請雨品第六十四
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0180_000.yaml, hash: 'sha256:bc9fab4f9a10d5e6185cd83ea0eeac20575dbba0d42d7b2d216dc675b64f46d5'}
-  - {seq: 1, filename: KR6j0180_001.yaml, hash: 'sha256:2755c79dbf3611a5917fc98ff8161effe9acd4827dff59655f466d147321aa12'}
+  - {seq: 1, filename: KR6j0180_001.yaml, hash: 'sha256:0702577028f3f2652980341472a0034728c95e59357cc377bf72ab04d2a9f7ac'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0180_000.markers.yaml, hash: 'sha256:bc3018f4c34db33f929be1f22b2bc6d31e2c9216d46d1c92ff4cc413f4b2709c'}
-  - {seq: 1, role: markers, filename: assets/KR6j0180_001.markers.yaml, hash: 'sha256:977a3584d9500f54e2534267fcfbce5acdef8782705986d3c0b7820693e3cad8'}
+  - {seq: 1, role: markers, filename: assets/KR6j0180_001.markers.yaml, hash: 'sha256:f4123d91906e72c938b2ecae0c9da00e87ccf85cbe4de621780bab2151e34dd2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 大雲經請雨品第六十四
   type: juan
   level: 1
-hash: sha256:741d70d26ee07539168e152f5c0697ca99bdaa69f1d5325bc7c531b2d8a1efa0
+hash: sha256:62fb0d352d3fb4ed97c3c5c135b8e7f36c60dd3bc8440a607ec4b9f450ccf192
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
